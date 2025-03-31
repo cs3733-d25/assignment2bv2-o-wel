@@ -1,0 +1,8 @@
+#FirstListItem {
+    color: gold;
+    transition: all 0.5s linear;
+}
+
+#FirstListItem:hover {
+    scale: 2.0;
+}

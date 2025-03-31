@@ -1,3 +1,4 @@
+import "../list.css"
 export function List1() {
     return (
         <>
