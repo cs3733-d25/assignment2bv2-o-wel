@@ -1,3 +1,7 @@
+import {List1} from "./list1.tsx";
+import {Table1} from "./table1.tsx";
+import {Form1} from "./form1.tsx";
+
 export function Hobby1() {
     return (
         <>
@@ -8,6 +12,13 @@ export function Hobby1() {
                 need with you. Overall it is about reconnecting with nature
                 and getting some exercise
             </p>
+            <hr />
+            <List1 />
+            <hr />
+            <Table1 />
+            <hr />
+            <Form1 />
+            <hr />
         </>
     );
 }

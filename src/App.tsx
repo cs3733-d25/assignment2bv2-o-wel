@@ -15,6 +15,7 @@ function App() {
     <>
       <Title />
         <Intro name1={ourNames.name1} name2={ourNames.name2} />
+        <hr />
         <div />
         <Hobby1 />
         <div />

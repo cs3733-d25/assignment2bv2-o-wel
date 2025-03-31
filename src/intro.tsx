@@ -8,7 +8,7 @@ export function Intro({name1, name2}:names) {
     const intro:string = "wow an intro of " + name1 + " and " + name2;
 
     // @ts-ignore
-    document.getElementById("intro").innerText = intro;
+    document.getElementById("intro").innerHTML = intro;
 
     return (
         <>
