@@ -8,10 +8,10 @@ export function Hobby2() {
             <div id="SoundsOfEarth">
                 <img src="public/The_Sounds_of_Earth.jpg" width="600" alt="Gold-plated vinyl record carrying samples of music from a variety of cultures and eras" />
             </div>
-            <p>Hi! My name is Matthew Dunn. I am a Computer Science major at WPI.</p>
             <p>My hobby is listening to music. It helps me relax and de-stress.</p>
             <List2 />
             <Table2 />
+            <hr />
             <Form2 />
         </>
     )
